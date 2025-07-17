@@ -63,7 +63,7 @@ Me chamo Guilherme Nogueira, tenho 21 anos e sou estudante de Estatística na UF
     title="SQL Server"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" 
 />
 <img 
     align="left" 
@@ -71,7 +71,7 @@ Me chamo Guilherme Nogueira, tenho 21 anos e sou estudante de Estatística na UF
     title="SQLite"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original-wordmark.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" 
 />
 <img 
     align="left" 
