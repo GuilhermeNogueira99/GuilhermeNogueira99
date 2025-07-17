@@ -113,6 +113,14 @@ Me chamo Guilherme Nogueira, tenho 21 anos e sou estudante de Estatística na UF
     style="padding-right: 10px;" 
     src="https://img.icons8.com/?size=100&id=Ny0t2MYrJ70p&format=png&color=000000"
 />
+<img 
+    align="left" 
+    alt="Excel" 
+    title="Excel"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://img.icons8.com/?size=100&id=117561&format=png&color=000000"
+/>
 <br/>
 <br/>
 
