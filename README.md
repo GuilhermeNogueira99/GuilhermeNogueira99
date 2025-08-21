@@ -132,14 +132,14 @@ Me chamo Guilherme Nogueira, tenho 21 anos e sou estudante de Estatística na UF
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=GuilhermeNogueira99&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=GuilhermeNogueira99&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&cache_seconds=1800" 
   />
 
 <img 
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeNogueira99&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeNogueira99&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9&cache_seconds=1800" 
   />
 
 </p>
